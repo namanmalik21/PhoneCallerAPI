@@ -1,10 +1,6 @@
 # PhoneCaller API using Node.js, Express.js, and SQLite
 
-PhoneCaller API is a Restful APi that contains services allows user to search user details like name , email address etc and it also allows to mark as spam number if they want .
-
-## Getting Started
-
-Explain how to get started with your project.
+The PhoneCaller API is a RESTful service providing functionalities to retrieve user details such as name and email address through search services. Additionally, it enables users to flag specific phone numbers as spam if desired.
 
 ### Prerequisites
 
